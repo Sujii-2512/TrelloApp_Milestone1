@@ -76,11 +76,11 @@ trello.unfollow(1, 2);       // User 1 unfollows User 2
 
 ```bash
 User 1's News Feed:
-Tweet ID: 103, User ID: 1, Timestamp: 3
-Tweet ID: 102, User ID: 2, Timestamp: 2
-Tweet ID: 101, User ID: 1, Timestamp: 1
+Tweet ID: 103, Timestamp: 3
+Tweet ID: 102, Timestamp: 2
+Tweet ID: 101, Timestamp: 1
 
 User 1's News Feed after unfollowing user 2:
-Tweet ID: 103, User ID: 1, Timestamp: 3
-Tweet ID: 101, User ID: 1, Timestamp: 1
+Tweet ID: 103, Timestamp: 3
+Tweet ID: 101, Timestamp: 1
 ```
